@@ -1,0 +1,9 @@
+default_context:
+    project_name: "materialprop"
+    app_name: "materialprop"
+    python_version: "3.8"
+    admin_user_username: "admin"
+    admin_user_email: "sandhya.chintalapati@gmail.com"
+    admin_user_password: "Admin@123"
+    use_celery: "no"
+    wsgi_server: "gunicorn"
